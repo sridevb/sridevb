@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm SRIDEV B 👋
 
-<!--
-**sridevb/sridevb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Student
+- Learning Cloud Computing and DevOps
+- Interested in AI, Automation and Web Development
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Azure Cloud
+- Docker
+- DevOps Fundamentals
+- AWS fundamentals
+
+## Connect With Me
+- LinkedIn:www.linkedin.com/in/sridev-b-245007380
+- GitHub: https://github.com/sridevb/
+-
